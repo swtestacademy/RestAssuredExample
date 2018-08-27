@@ -1,4 +1,4 @@
-package Utils;
+package utils;
 
 import com.jayway.restassured.RestAssured;
 import com.jayway.restassured.http.ContentType;

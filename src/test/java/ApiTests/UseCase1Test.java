@@ -1,6 +1,6 @@
 package ApiTests;
 
-import Utils.Utils;
+import utils.Utils;
 import com.jayway.restassured.http.ContentType;
 import com.jayway.restassured.path.json.JsonPath;
 import com.jayway.restassured.response.Response;
